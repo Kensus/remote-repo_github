@@ -12,6 +12,12 @@ return 0;
 
 public addition(int x,int y)
 {
+	return x+y;
+}
+/* the merge to master*/
+public multiblication(int x,int y)
+{
+	return x*y;
 
 }
 
