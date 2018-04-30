@@ -21,5 +21,10 @@ public multiblication(int x,int y)
 
 }
 
+public subtract(int x,int y)
+{
+	return x-y;
+
+}
 
 
